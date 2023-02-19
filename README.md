@@ -1,6 +1,6 @@
 # QuizApp 
 
-The aim of this exercise is to create a response Quiz application using React Native.
+The aim of this exercise is to create a Quiz application using React Native.
 
 
 # See [Getting Started](https://reactnative.dev/docs/environment-setup) to install requirement tools.
