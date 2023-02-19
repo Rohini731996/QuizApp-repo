@@ -19,6 +19,12 @@ export const styles = StyleSheet.create({
         top: 50,
         marginBottom: 100
     },
+    restartButton: {
+        backgroundColor: '#2196F3',
+        alignSelf: 'center',
+        width: 150,
+        marginBottom: 100
+    },
     optionsButton: {
         height: 40,
         alignItems: 'center',

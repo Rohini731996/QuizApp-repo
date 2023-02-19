@@ -52,7 +52,7 @@ export const Summary = (props) => {
             <Text style={styles.summaryHeading}>Summary</Text>
             <Text style={styles.score}>Your score: {score} / 8</Text>
             {summary}
-            <View style={styles.nextButton}>
+            <View style={styles.restartButton}>
                 <Button
                     title="Restart Quiz"
                     color={'white'}

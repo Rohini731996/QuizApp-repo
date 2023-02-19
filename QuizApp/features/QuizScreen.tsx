@@ -23,7 +23,7 @@ const QuizScreen = () => {
   const renderOptions = () => {
     return questions[currentQuestionIndex].answers.map((answer, index) => {
       return (
-        <View style={styles.optionButton}>
+        <View key={index} style={styles.optionButton}>
           <TouchableOpacity
             key={index}
             onPress={() => handleAnswer(index)}
