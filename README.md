@@ -29,6 +29,11 @@ $ yarn android
 ```
 
 
+#Images below represent from initial state to desired solution
 
 
-
+<p float="left">
+  <img src="./screenshots/welcome.png" width="220" title="hover text">
+  <img src="./screenshots/questions.png" width="220" title="hover text">
+  <img src="./screenshots/summary.png" width="220" title="hover text">
+</p>
